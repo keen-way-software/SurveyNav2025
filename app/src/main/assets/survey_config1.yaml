@@ -10,7 +10,7 @@ graph:
       type: AI
       title: FAW Yield Loss (3 Seasons)
       question: >-
-        How much yield do you lose because of fall armyworm? Please think back over the last 3 seasons. (Percent or bags per acre are fine.)
+        How much yield do you lose because of fall armyworm? Please think back over the last 4 seasons. (Percent or bags per acre are fine.)
       nextId: Q2
     - id: Q2
       type: AI
